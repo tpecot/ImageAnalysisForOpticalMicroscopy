@@ -6,4 +6,4 @@ For each session, a pdf describes the background required to understand the sess
 # Video tutorials
 [Macro 1: CLIJ assistant](https://www.youtube.com/watch?v=E0eWDJAIp6o) <br>
 [Macro 2: Macro recorder - batch processing](https://youtu.be/NeUOZrWhw0w) <br>
-[Tracking](https://youtu.be/QBSRsv6gxi8)
+[Tracking with TrackMate](https://youtu.be/QBSRsv6gxi8)
